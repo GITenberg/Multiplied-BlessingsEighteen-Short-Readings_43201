@@ -1,0 +1,32 @@
+_repo: Multiplied-BlessingsEighteen-Short-Readings_43201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2013-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- Excerpts'
+- !lcc 'BV'
+tableOfContents: Multiplied blessings -- The Saviour seeking the sinner -- A divine
+  salvation -- Feelings -- A peaceful death-bed -- A peaceful life -- The indwelling
+  of the Holy Spirit -- The witness; the leader; the commander -- Faith and effort
+  -- The joy of the Lord -- The work of the Lord -- Christian experience in the confirmation
+  of faith -- The coming of the Lord -- "With" and "by" -- The stirring of the spirit
+  -- A willing service -- Fear not -- The present and the future.
+title: 'Multiplied Blessings: Eighteen Short Readings'
+url: http://www.gutenberg.org/ebooks/43201
